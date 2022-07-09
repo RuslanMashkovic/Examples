@@ -11,7 +11,6 @@ else if (num1 < num2)
 {
     Console.WriteLine("Первое число меньше второго");
 }
-
 else
 {
     Console.WriteLine("Оба числа равны");
