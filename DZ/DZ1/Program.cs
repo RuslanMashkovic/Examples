@@ -15,3 +15,4 @@ else
 {
     Console.WriteLine("Оба числа равны");
 }
+
